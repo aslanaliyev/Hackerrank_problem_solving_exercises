@@ -1,3 +1,5 @@
+# Aslan Aliyev 
+
 # #
 # def simpleArraySum(ar):
 #     #
